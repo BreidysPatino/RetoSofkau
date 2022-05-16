@@ -18,8 +18,8 @@ public class Pregunt extends javax.swing.JFrame {
     }
 
     int posicion = 0;
-    Respuestas r = new Respuestas();
-    Preguntas p = new Preguntas();
+    Respuestas1 r = new Respuestas1();
+    Preguntas1 p = new Preguntas1();
     Object[] select = {"", "", "", "", ""};
 
     @SuppressWarnings("unchecked")
